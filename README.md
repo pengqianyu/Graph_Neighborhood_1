@@ -1,4 +1,4 @@
-# First and Complementary Neighborhood Combination of Adjacency Matrix for Graph Learning
+# First and Complementary Neighborhood Combination of Adjacency Matrix for Graph Learning 1
 
 # Overview
 This repository is the implementation of paper 'First and Complementary Neighborhood Combination of Adjacency Matrix for Graph Learning' which is submitted and under review. In the paper, we proposed a neighborhood combination method for graph learning including supervised/semi-supervised graph classification, graph link prediction, and graph edge generation/classification. The proposed approach improves the performance of the following graph models: 
